@@ -1,0 +1,4 @@
+git branch
+git chechout -b develop
+git checkout -b 'feature/1-add-student'
+git status
